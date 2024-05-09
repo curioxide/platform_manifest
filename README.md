@@ -37,8 +37,8 @@ Please read the [AOSP building instructions](http://source.android.com/source/in
 If libncurses5 is not available, try operations below
 
 
-    ln -s /usr/lib/x86_64-linux-gnu/libncurses.so.6.4 /usr/lib/x86_64-linux-gnu/libncurses.so.5
-    ls -s /usr/lib/x86_64-linux-gnu/libncurses.so.6.4 /usr/lib/x86_64-linux-gnu/libtinfo.so.5
+    ln -s /usr/lib/x86_64-linux-gnu/libncurses.so.6 /usr/lib/x86_64-linux-gnu/libncurses.so.5
+    ls -s /usr/lib/x86_64-linux-gnu/libtinfo.so.6 /usr/lib/x86_64-linux-gnu/libtinfo.so.5
 
 >>>>>>>>>>>>>>>>>>>>>>
 
